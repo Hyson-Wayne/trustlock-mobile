@@ -13,7 +13,7 @@ TrustLock Mobile is the native client for the TrustLock ecosystem — a digital 
 
 This app communicates directly with the backend API provided by the TrustLock Web platform.
 
-> **Backend (Web API):** *[add web repository link here]*
+> **Backend (Web API):** *[https://github.com/Hyson-Wayne/trustlock-mobile]*
 
 ---
 
@@ -77,8 +77,6 @@ Everything follows a strict state flow to prevent fraud and ensure accountabilit
 
 ![Dispute](./screenshots/dispute.png)
 
-> Tip: Keep all images inside `/screenshots` folder in your repo.
-
 ---
 
 ## System Relationship
@@ -109,7 +107,7 @@ Create a `.env` file:
 ```env
 # Supabase Auth
 EXPO_PUBLIC_SUPABASE_URL="https://[PROJECT_REF].supabase.co"
-EXPO_PUBLIC_SUPABASE_ANON_KEY="your-anon-key"
+EXPO_PUBLIC_SUPABASE_ANON_KEY="anon-key"
 
 # Optional
 EXPO_PUBLIC_APP_NAME="TrustLock"
