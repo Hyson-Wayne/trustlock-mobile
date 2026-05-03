@@ -13,7 +13,7 @@ TrustLock Mobile is the native client for the TrustLock ecosystem — a digital 
 
 This app communicates directly with the backend API provided by the TrustLock Web platform.
 
-> **Backend (Web API):** *https://github.com/Hyson-Wayne/trustlock-mobile*
+> **Backend (Web API):** *https://github.com/Hyson-Wayne/trustlock-web*
 
 ---
 
